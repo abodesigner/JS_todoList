@@ -1,0 +1,39 @@
+.wrapper{
+    width: 50%;
+    margin: 50px auto
+}
+
+.result,.loader,.showMessage{
+    display: none
+}
+
+.showMessage{
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 3rem;
+}
+
+.error{
+    border: 1px solid #f00;
+    background-color: #f5abab;
+    border-left: 5px solid #f00;
+    border-radius: 5px;
+}
+
+.success{
+    border: 1px solid #080;
+    background-color: aquamarine;
+    border-left: 5px solid #080;
+    border-radius: 5px;
+}
+
+#main-panel .panel-title{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold
+}
+
+.showItem{
+    display: block
+}
