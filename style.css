@@ -1,0 +1,25 @@
+body{
+    background-color: burlywood;
+}
+
+input:focus, textarea:focus, select:focus{
+    outline: none;
+}
+
+p{
+    margin-bottom: 0;
+}
+
+.collection-item{
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin-bottom: 10px;
+    background-color: #F6F6F6;
+}
+
+.filter-task input{
+    border-radius: 0;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
