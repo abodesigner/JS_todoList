@@ -1,2 +1,2 @@
 # JS_todolist
-Simple todolist project using Javascript
+Simple todolist project using Pure Javascript with LocalStorage
